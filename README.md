@@ -16,7 +16,7 @@ This keyboard has 46 keys, all of which are 1U keys.
 https://github.com/telzo2000/cool846ble/tree/main/firmware
 
 # Build guide 
-comming soon.
+https://github.com/telzo2000/cool846ble/blob/main/buildguide_for_cool846ble.md
 
 
 # Parts list
