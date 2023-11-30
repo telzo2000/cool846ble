@@ -11,5 +11,9 @@ I haven't tried it anywhere else.
 <br>
 ほかでは試していない。
 <br>
-
+<br>
+switch_knob v12 is made even thinner to match LEDO 6060 Resin. switch_knob v10 is tailored to Black resin.
+<br>
+switch_knob v12は、LEDO 6060 Resinに合わせて、さらに薄くしたものです。switch?knob v10は、Black resinに合わせたものです。
+<br>
 
